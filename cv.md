@@ -1,17 +1,17 @@
-```markdown
+
 # Kazamel Maryia
 
 ---
 
 ## Contact information
 - **Email:** 22112007mary.k@gmail.com
--**GitHub:** [22112007maryk-lgtm](https://github.com/22112007maryk-Igtm)
--**Discord:** mary.k2211
+- **GitHub:** [22112007maryk-lgtm](https://github.com/22112007maryk-lgtm)
+- **Discord:** mary.k2211
 
 ---
 
 ## About Me
-I am a begginer developer, but I am very aimfull.
+I am a beginner developer, but I am very aimfull.
 I have a big wish to become a front-end developer and work with interesting projects.:)
 
 ---
@@ -26,8 +26,7 @@ I am currently learning JavaScript. Here is a simple example of what I can do:
 // Basic JavaScript example
 let greeting = "Hello";
 let name = "Maryia";
-console.log(greeting + ", " + name + "!"); // Output: Hello, Maryia!
-```
+console.log(greeting + ", " + name + "!"); // Output: Hello, Maryia!```
 
 ---
 
@@ -44,7 +43,7 @@ I am currently a first-year student and I have no work experience.:(
 
 ##English
 B1 - Intermediate
-fix: close code block
+fix: correct makdown and typos
 
 
 
