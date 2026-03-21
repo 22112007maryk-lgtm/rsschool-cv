@@ -27,6 +27,7 @@ I am currently learning JavaScript. Here is a simple example of what I can do:
 let greeting = "Hello";
 let name = "Maryia";
 console.log(greeting + ", " + name + "!"); // Output: Hello, Maryia!
+```
 
 ---
 
