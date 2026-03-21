@@ -11,7 +11,7 @@
 ---
 
 ## About Me
-I am a beginner developer, but I am very aimfull.
+I am a beginner developer, but I am very aimful.
 I have a big wish to become a front-end developer and work with interesting projects.:)
 
 ---
