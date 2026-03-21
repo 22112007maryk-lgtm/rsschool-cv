@@ -9,4 +9,4 @@
 ## About Me
 I am a begginer developer, but I am very aimfull.
 I have a big wish to become a front-end developer and work with interesting projects.:)
-`fix: correct markdown syntax`
+
