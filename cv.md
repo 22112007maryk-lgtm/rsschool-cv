@@ -41,15 +41,13 @@ I am currently a first-year student and I have no work experience. :(
 ---
 
 
-##Education
+## Education
 * RS School - JavaScript Course (2026)
 * BSUIR (digital marketing)
 
-
 ---
 
-
-##English
+## English
 B1 - Intermediate
 
 
