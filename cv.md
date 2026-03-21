@@ -26,7 +26,8 @@ I am currently learning JavaScript. Here is a simple example of what I can do:
 // Basic JavaScript example
 let greeting = "Hello";
 let name = "Maryia";
-console.log(greeting + ", " + name + "!"); // Output: Hello, Maryia!```
+console.log(greeting + ", " + name + "!"); // Output: Hello, Maryia!
+```
 
 ---
 
@@ -43,7 +44,6 @@ I am currently a first-year student and I have no work experience.:(
 
 ##English
 B1 - Intermediate
-fix: correct makdown and typos
 
 
 
