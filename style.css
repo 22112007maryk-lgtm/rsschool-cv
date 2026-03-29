@@ -1,0 +1,18 @@
+body{
+  font-family: Arial;
+}
+h1{
+  font-size: 64px;
+  text-align: center;
+  color: aqua;
+  margin-bottom: 50px;
+}
+p{
+  font-size: 24px;
+  color: teal;
+  font-weight: bold;
+  height: 100px;
+  padding-top: 20px;
+  background-color: floralwhite;
+}
+init: add style.css
